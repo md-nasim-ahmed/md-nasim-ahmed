@@ -88,8 +88,3 @@
 
 <br/>  
 
-###
-
-<img src="https://raw.githubusercontent.com/md-nasim-ahmed/md-nasim-ahmed/output/snake.svg" alt="Snake animation" />
-
-###
