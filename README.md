@@ -1,10 +1,10 @@
-## <div align="center">I'm Md. Nasim Ahmed, full-stack Web developer 👨‍💻 working remotely at Canadian Company(Web Developer & SEO) 🚀</div>  
+## <div align="center">I'm Md. Nasim Ahmed, full-stack Web developer 👨‍💻 working remotely at Events365 Canada (Web Developer & SEO Specialist) 🚀</div>  
   
 
 - 💻 I’m currently working at Events 365 Canada  
   
 
-- 📘 I’m currently learning Php and Laravel  
+- 📘 I’m currently learning AI
   
 
 - ❓ Ask me about anything related to MERN stack and CMS( Wordpress, Shopify) related technologies  
