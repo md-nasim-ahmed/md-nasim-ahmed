@@ -4,7 +4,7 @@
 - 💻 I’m currently working at Events 365 Canada  
   
 
-- 📘 I’m currently learning AI
+- 📘 I’m currently learning Machine Learning & AI
   
 
 - ❓ Ask me about anything related to MERN stack and CMS( Wordpress, Shopify) related technologies  
